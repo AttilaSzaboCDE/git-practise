@@ -1,1 +1,2 @@
+Második sor: hozzáadva
 Első sor: hozzáadva a main 2. commitjához
